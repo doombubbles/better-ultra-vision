@@ -15,5 +15,4 @@ All this is changeable in a config, as is the price of Ultravision if you want t
 This mod also used to let Ultravision let them shoot through walls, but then Ninja Kiwi added that themselves as a Monkey Knowledge lol.
 
 
-## NOTE: This alpha version of the mod requires [BTD6 Mod Helper >v3.0](https://github.com/gurrenm3/BTD-Mod-Helper/wiki/Mod-Helper-3.0-Alpha), see [here](https://github.com/doombubbles/BTD6-Mods#readme) for the stable mods
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)

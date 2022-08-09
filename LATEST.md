@@ -1,1 +1,1 @@
-- Update for Mod Helper v3.0
+- Fixed mod description
