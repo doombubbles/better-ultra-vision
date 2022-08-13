@@ -2,7 +2,7 @@
 
 public static class ModHelperData
 {
-    public const string Version = "1.2.1";
+    public const string Version = "1.2.2";
     public const string RepoOwner = "doombubbles";
     public const string RepoName = "better-ultra-vision";
     public const string Name = "Better Ultravision";

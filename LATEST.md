@@ -1,1 +1,1 @@
-- Fixed mod description
+- Recompile for v32.0
