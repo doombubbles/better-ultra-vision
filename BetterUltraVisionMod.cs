@@ -1,5 +1,5 @@
-﻿using Assets.Scripts.Models;
-using Assets.Scripts.Models.Towers.Mods;
+﻿using Il2CppAssets.Scripts.Models;
+using Il2CppAssets.Scripts.Models.Towers.Mods;
 using BetterUltraVision;
 using BTD_Mod_Helper;
 using BTD_Mod_Helper.Api.Enums;
